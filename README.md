@@ -6,7 +6,7 @@ Necessary installs to prepare for this workshop. Please download ahead of time.
 
 **Required for Workshop:**  
 (1) emcee: pip install git+https://github.com/dfm/emcee # MCMC Bayesian analysis  
-(2) nestle: pip install nestle # Multinest Bayesian analysis  
+(2) nestle: pip install git+https://github.com/kbarbary/nestle # Multinest Bayesian analysis  
 (3) platon: pip install git+https://github.com/exowanderer/platon # Exoplanet atmospheric retrieval  
 (4) pygtc: pip install git+https://github.com/exowanderer/pygtc # Corner plotting software  
 (5) batman: pip install git+https://github.com/lkreidberg/batman # Exoplanet transit model  
